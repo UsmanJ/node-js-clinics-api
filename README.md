@@ -28,4 +28,4 @@ After cloning the repo, go into the root folder of the project and:
 
 ## Testing
 
-Running `npm test` will run the unit tests with mocha and chai.
+* Running `npm test` will run the unit tests with mocha and chai.
