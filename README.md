@@ -22,9 +22,9 @@ After cloning the repo, go into the root folder of the project and:
 
 * Run `npm start`
 
-* Go to [localhost:3000/clinics/postcode/cr0 6SD](localhost:3000/clinics/postcode/cr0 6SD) to test the postcode api
+* Go to `localhost:3000/clinics/postcode/cr0 6SD` to test the postcode api
 
-* Go to [localhost:3000/clinics/city/Croydon](localhost:3000/clinics/city/Croydon) to test the city api
+* Go to `localhost:3000/clinics/city/Croydon` to test the city api
 
 ## Testing
 
